@@ -1,9 +1,7 @@
 # venkatesh.github.io
 <h3 align ="center">
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   
+    Hi there 👋
    </h3>
-   
    <div align="center">
    <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
    
