@@ -19,11 +19,9 @@
    
    ![Jokes Card](https://readme-jokes.vercel.app/api)
       
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=venkatesh19v&count_private=true&theme=tokyonight&showicons=true)]()
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh19v&show_icons=true&theme=radical)]()
    
-   <a href="https://github.com/venkatesh19v/">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatesh19v&show_icons=true&theme=radical"/>
-   </a>
+   <a href="https://github.com/venkatesh19v/"></a>
    
    ### Connect with me via 
    
