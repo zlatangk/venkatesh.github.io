@@ -19,7 +19,7 @@
    
    ![Jokes Card](https://readme-jokes.vercel.app/api)
       
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=muskan2532150&count_private=true&theme=tokyonight&showicons=true)]()
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=venkatesh19v&count_private=true&theme=tokyonight&showicons=true)]()
    
    <a href="https://github.com/venkatesh19v/">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatesh19v&show_icons=true&theme=radical"/>
