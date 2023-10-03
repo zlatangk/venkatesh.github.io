@@ -22,7 +22,7 @@
    [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=muskan2532150&count_private=true&theme=tokyonight&showicons=true)]()
    
    <a href="https://github.com/venkatesh19v/">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh19v&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatesh19v&show_icons=true&theme=radical"/>
    </a>
    
    ### Connect with me via 
